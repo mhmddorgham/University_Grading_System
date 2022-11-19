@@ -9,5 +9,12 @@
 #### 3.	Variables (int, double, Boolean)
 #### 4.	Arrays
 #### 5.	2 – dimension arrays
+#### 6.	3- dimension arrays
+#### 7.	Do while loop
+#### 8.	For loops 
+#### 9.	Nested for loops
+#### 10.	Switch case
+#### 11.	Seperate Methods and functions
+#### 12.	Graphical User Interface
 
 
